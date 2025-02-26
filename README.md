@@ -3,6 +3,9 @@
 ### API Automation Framework with the CRUD of Restful Booker
 
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
+## API Automation Framework with the CRUD of Restful Booker
+
+mvn test -Dsurefire.suiteXmlFiles=testng.xml
 
 Screenshot 2023-10-31 at 12 25 55 PM
 Tech Stack
@@ -160,3 +163,6 @@ Try the Complex JSON Parsing with the Map and Filters On Assignment Tab.
 Assignments 5
 
 Add JSON Schema Validation for POST, PUT Request for the Restful BOOker.
+
+
+   
